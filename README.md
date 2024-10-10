@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Kocaka+se+pravi+na+developer;Phoenix+Scripts)](https://git.io/typing-svg)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/eWBEM4eRD2) 
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kocaka14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kocaka14&theme=dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kocaka14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
